@@ -4,4 +4,4 @@ These codes are not finished. They are part of a research I am doing. I am worki
 
 The encoders are hall efect sensors.
 
-The PID Simulator file contains wait for it... a PID Simulator!
+The PID Simulator folder contains wait for it... a PID Simulator!
