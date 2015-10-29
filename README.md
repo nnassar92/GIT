@@ -1,3 +1,3 @@
 #GIT
 
-Various Codes I worked on. Some of them are unfinished.
+Various codes I worked on. Some of them are unfinished.
